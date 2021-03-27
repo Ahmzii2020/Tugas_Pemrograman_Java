@@ -3,7 +3,7 @@
 // Prodi    : Sistem Informasi
 // Tanggal  : 18 Maret 2021   
 // Latihan Pertemuan 2 Karakteristik Pemrograman Berorientasi Objek
-package BelajarTP1;
+package BelajarTP2;
 /* Pembentukan Method */
     public class Sepeda{
            int gir;
