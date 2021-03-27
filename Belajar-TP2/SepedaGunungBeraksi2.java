@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package BelajarTP1;
+package BelajarTP2;
 /* Eksekusi Program */
     public class SepedaGunungBeraksi2 {
        public static void main(String[] args) {
