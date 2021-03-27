@@ -3,7 +3,7 @@
 // Prodi    : Sistem Informasi
 // Tanggal  : 18 Maret 2021   
 // Tugas Pertemuan 2 Karakteristik Pemrograman Berorientasi Objek
-package BelajarTP1;
+package BelajarTP2;
 /*Inherit dari Class MatematikaCanggih*/
     public class MatematikaCanggihBanget extends MatematikaCanggih{
         void pertambahanTiga(int a, int b, int c){
