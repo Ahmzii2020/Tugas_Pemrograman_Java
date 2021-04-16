@@ -1,6 +1,7 @@
 // Nama     : Ahmad Fauzi
 // NIM      : 11200930000020
 // Prodi    : Sistem Informasi
+// Fakultas : Sains dan Teknologi
 // Tanggal  : 18 Maret 2021   
 // Tugas Pertemuan 2 Karakteristik Pemrograman Berorientasi Objek
 package BelajarTP2;
