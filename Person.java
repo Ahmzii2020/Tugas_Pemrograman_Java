@@ -3,7 +3,7 @@
 // Kelas    : 2A Sistem Informasi
 // Tanggal  : 22 April 2021
 // Ujian Tengah Semester (UTS) Pemrograman Lanjutan
-// Jawaban No.2 Menggunakan Polymorphism - overloading
+// Jawaban No.2
 package com.uts.pemrog;
 
 /**
