@@ -1,7 +1,7 @@
 // Nama     : Ahmad Fauzi
 // NIM      : 11200930000020
 // Kelas    : 2A Sistem Informasi
-// Tanggal  : 3 Mei 2021
+// Tanggal  : 2 Juni 2021
 package Formlogin;
 import java.sql.Connection;
 import java.sql.ResultSet;
@@ -11,7 +11,7 @@ import java.awt.HeadlessException;
 import java.sql.SQLException;
 /**
  *
- * @author ACER
+ * @author Ahmad Fauzi
  */
 public class Loginakun extends javax.swing.JFrame {
     private final Connection conn = new koneksidata().connect();
