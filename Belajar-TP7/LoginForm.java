@@ -1,8 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+// Nama     : Ahmad Fauzi
+// NIM      : 11200930000020
+// Prodi    : Sistem Informasi
+// Fakultas : Sains dan Teknologi
 package tampilan;
 
 import java.sql.Connection;
@@ -13,7 +12,7 @@ import koneksi.koneksi;
 
 /**
  *
- * @author User
+ * @author Ahmad Fauzi
  */
 public class LoginForm extends javax.swing.JFrame {
 private Connection conn = new koneksi().connect();
@@ -140,7 +139,7 @@ private Connection conn = new koneksi().connect();
         // TODO add your handling code here:
         try {
             java.sql.Statement stat = conn.createStatement();
-            ResultSet result=stat.executeQuery ("select * from tb_user where "
+            ResultSet result=stat.executeQuery ("select * from login_admin where "
                     + "username='" +txtUsername.getText()+"'");
             if (result.next()) {
                 if (txtPassword.getText().equals(result.getString("password"))){
