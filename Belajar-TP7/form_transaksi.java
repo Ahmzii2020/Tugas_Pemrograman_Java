@@ -1,8 +1,7 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+// Nama     : Ahmad Fauzi
+// NIM      : 11200930000020
+// Prodi    : Sistem Informasi
+// Fakultas : Sains dan Teknologi
 package tampilan;
 import java.awt.Dialog;
 import java.awt.event.KeyEvent;
@@ -24,7 +23,7 @@ import koneksi.koneksi;
 
 /**
  *
- * @author User
+ * @author Ahmad Fauzi
  */
 public class form_transaksi extends javax.swing.JInternalFrame {
 public final Connection conn = new koneksi().connect();
